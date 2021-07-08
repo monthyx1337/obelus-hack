@@ -1,6 +1,7 @@
 # obelus-hack
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
+# info
 obelus csgo project by monthyx, skver & v5
 
 # naming conventions
