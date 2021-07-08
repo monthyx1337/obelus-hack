@@ -23,7 +23,8 @@ obelus csgo project by monthyx, skver & v5
 * extensions:
   * header: .h
   * source: .cpp
-  * 
+## screenshots:
+
 ![image](https://user-images.githubusercontent.com/46615969/124895529-ea33e200-dfdc-11eb-9a8b-a1db1a85a01f.png)
 ![image](https://user-images.githubusercontent.com/46615969/124895548-edc76900-dfdc-11eb-8078-9e76851dc57b.png)
 ![image](https://user-images.githubusercontent.com/46615969/124895565-f15af000-dfdc-11eb-8cad-6540ad7ce46e.png)
